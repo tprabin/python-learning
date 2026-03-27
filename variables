@@ -1,0 +1,7 @@
+"A variable is a name given to a memory location in a program"
+
+(variable)  (value) 
+name= "prabin"
+age = 21
+price = 24.99
+

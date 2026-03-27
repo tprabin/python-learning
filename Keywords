@@ -1,0 +1,27 @@
+Keywords are reserved words in python.
+Examples:
+and
+as 
+assert 
+break 
+class 
+continue 
+der
+del
+elif
+else
+except 
+in 
+is
+none
+or 
+pass
+raise
+if 
+global
+import
+while 
+with
+True
+return
+
