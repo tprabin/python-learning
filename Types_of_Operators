@@ -1,0 +1,5 @@
+An Operator is a symbol that performs a certain operation between operands.
+1. Arithmetic Operator (*,-,+,/,%,**)
+2. Relational/Comparison Operators (==,!=,>=,>, <=)
+3. Assignment Operators (==,-=,+=,*= /=)
+4. Logical Operators (not,and,or)
